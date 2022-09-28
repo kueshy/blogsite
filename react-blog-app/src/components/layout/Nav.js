@@ -242,46 +242,6 @@ const Nav = () => {
           </React.Fragment>
         </Drawer>
       </Box>
-      {/* <Container>
-        <Box component="main" sx={{ p: 3 }}>
-          <Toolbar />
-
-          <Typography component="p" variant="body1">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit quis
-            quos nihil, rerum eos, ab sit corporis Lorem ipsum dolor sit amet
-            consectetur adipisicing elit. Minus repellendus sunt expedita iusto
-            eos eius? Natus fuga, aperiam nisi ipsa deleniti officia a rerum, in
-            asperiores temporibus, iste dolorum modi! Lorem ipsum dolor sit
-            amet, consectetur adipisicing elit. Illum nisi, vel veniam itaque
-            nihil numquam ut, porro totam neque assumenda corporis temporibus
-            similique consequatur laborum cumque facere voluptatum omnis
-            recusandae! Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Recusandae dicta explicabo aliquid consequuntur. Voluptatem omnis,
-            enim, quia corrupti aliquam iste in animi eligendi dolores soluta,
-            harum optio architecto sunt porro. Lorem ipsum dolor sit amet
-            consectetur adipisicing elit. Cumque dolor fuga numquam nihil
-            pariatur. Itaque quis atque rerum ipsa laborum nobis iusto error
-            provident, ab optio laudantium expedita voluptates tenetur! Lorem
-            ipsum dolor sit amet consectetur adipisicing elit. Numquam sed est
-            et mollitia culpa? Quis, facere delectus hic cum, amet, provident
-            repudiandae vel laudantium mollitia iure placeat sequi beatae rem.
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint
-            obcaecati necessitatibus, sequi perspiciatis corrupti fuga sed qui
-            omnis quibusdam aliquid dolore sapiente fugiat fugit. Ex rem ab
-            exercitationem blanditiis obcaecati? Lorem ipsum dolor sit amet,
-            consectetur adipisicing elit. Omnis aliquam dolor aperiam repellat
-            laborum a, error facilis at odio ratione delectus explicabo nostrum
-            odit quidem minima animi exercitationem earum ducimus! Lorem ipsum
-            dolor sit amet, consectetur adipisicing elit. Est adipisci eum iusto
-            illo voluptate voluptatum distinctio molestias saepe temporibus
-            animi quasi ut obcaecati, excepturi repellat ad qui. Reiciendis,
-            facilis repellendus. Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Sit molestiae exercitationem consectetur non, eum
-            quos culpa, alias rerum, et nesciunt vero distinctio voluptates!
-            Neque obcaecati iste labore expedita dicta sapiente!
-          </Typography>
-        </Box>
-      </Container> */}
     </Box>
   );
 };
